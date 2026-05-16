@@ -1,2 +1,1 @@
-print("Hello Git")
-print("Learning Git")
+def farewell(): print('Goodbye from the main branch!') 
